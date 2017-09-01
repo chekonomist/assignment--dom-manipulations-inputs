@@ -1,4 +1,4 @@
-# DOM Manipulations - Events
+# DOM Manipulations - Inputs
 
 ## Setup
 1 -- navigate to your `assignments` directory:
