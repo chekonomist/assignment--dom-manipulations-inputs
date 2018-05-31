@@ -45,7 +45,7 @@ var totalCheckSum = 0
 itemsListEl.forEach(function isItChecked(el){
 
   if (el.checked === true) {
-      var selectedItemPrice = el.value
+      var selectedItemPrice = parseInt(el.value)
       totalCheckSum = totalCheckSum + selectedItemPrice
     }
 
